@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<FightingExternalConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerHealth>220</PlayerHealth>
+  <EnemyHealth>500</EnemyHealth>
+  <PlayerLuckCurve>
+    <x>0</x>
+    <y>1</y>
+  </PlayerLuckCurve>
+  <EnemyLuckCurve>
+    <x>0.666</x>
+    <y>0.777</y>
+  </EnemyLuckCurve>
+  <PlayerEfficiencyMultiplier>1</PlayerEfficiencyMultiplier>
+  <EnemyEfficiencyMultiplier>0.9</EnemyEfficiencyMultiplier>
+  <ClickerEquilibriumCPS>3</ClickerEquilibriumCPS>
+  <NormalizingSpeed>0.25</NormalizingSpeed>
+  <PrepareStageDuration>3</PrepareStageDuration>
+  <ActionsSelectionStageDuration>4</ActionsSelectionStageDuration>
+  <ActionsStageDuration>2</ActionsStageDuration>
+  <WaitForActionsEndMinDuration>4</WaitForActionsEndMinDuration>
+</FightingExternalConfig>

@@ -1,0 +1,20 @@
+{
+    "name": "DevourNovelEngine.Prototype",
+    "rootNamespace": "DevourNovelEngine.Prototype",
+    "references": [
+        "GUID:192e6f15aa7d6544aa0c231e6f304acd",
+        "GUID:67dfe7acb7556b54aabc705bcd46d40c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:3b4f7805b90b08e4eba0583c92b448c5",
+        "GUID:e871a3aa1e21d65438ae6177e3daaad8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

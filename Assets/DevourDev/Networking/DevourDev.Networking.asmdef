@@ -1,0 +1,16 @@
+{
+    "name": "DevourDev.Networking",
+    "rootNamespace": "DevourDev.Networking",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "DDEBUG"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

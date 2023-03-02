@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SelectLevelScene.unity
+    guid: 5f804d463750e2c489c318cbafb88daa
+  - enabled: 1
+    path: Assets/Scenes/Escape Shooting Chase.unity
+    guid: 999d89dce5fbfb443856f553426a6dc2
+  - enabled: 1
+    path: Assets/Scenes/Stealth.unity
+    guid: 70d8026536dc0334e973f28c61d2881e
+  - enabled: 1
+    path: Assets/Scenes/Fighting.unity
+    guid: d14dc1b6529afaa4da24f90857f86e81
+  - enabled: 0
+    path: Assets/Scenes/MobileVirtialInputScene.unity
+    guid: fe23a53bffd3a9b47a32343d138f662e
+  m_configObjects: {}

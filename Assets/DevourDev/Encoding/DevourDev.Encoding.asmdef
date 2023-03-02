@@ -1,0 +1,18 @@
+{
+    "name": "DevourDev.Encoding",
+    "rootNamespace": "DevourDev.Encoding",
+    "references": [
+        "GUID:35ab8b24b0ea70a4b91f36f757271439"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "DDEBUG"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

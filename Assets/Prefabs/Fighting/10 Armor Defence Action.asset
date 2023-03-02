@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 393f08f76ca96a542a33005dd6121168, type: 3}
+  m_Name: 10 Armor Defence Action
+  m_EditorClassIdentifier: 
+  _name: "\u0411\u043B\u043E\u043A \u0420\u0443\u043A\u043E\u0439"
+  _icon: {fileID: 21300000, guid: 615f3cdaa1374bd4db14286066f31cde, type: 3}
+  _animParamName: ShieldBlock
+  _castTime: 0
+  _bonusArmor: {fileID: 11400000, guid: dc46862359bd82142a9082eb793b5260, type: 2}
+  _turnsCount: 1
+  _stage: 0
